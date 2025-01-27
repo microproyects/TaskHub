@@ -10,7 +10,7 @@ export default function Index() {
           source={image}
           style={styles.image}
         />
-        <Text style={styles.title}>Username</Text>
+        <Text style={styles.title}>Username - Usuario</Text>
         <TextInput style={styles.input} />
         <Text style={styles.title}>Password</Text>
         <TextInput style={styles.input} />
